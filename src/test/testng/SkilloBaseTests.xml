@@ -1,0 +1,7 @@
+<suite name="POMHomework" parallel="methods" thread-count="1">
+    <test name="SmokeTests">
+        <classes>
+            <class name="pomscripts.SkilloBaseTests"/>
+        </classes>
+    </test>
+</suite>
